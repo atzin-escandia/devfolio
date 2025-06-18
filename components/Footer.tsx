@@ -28,7 +28,7 @@ const Footer = () => {
           Crafted with ❤ by  <a
             className="text-purple font-extrabold hover:scale-105 inline-block transition-transform duration-200"
             target="_blank"
-            href="https://theplumup.com"
+            href="https://atzinescandia.dev"
           >
             Atzin Escandia.
           </a>

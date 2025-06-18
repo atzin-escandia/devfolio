@@ -69,7 +69,7 @@ export const projects = [
 		titleClassName: "justify-center",
 		img: "https://i.pinimg.com/originals/54/b5/24/54b52468335fd6eb935e330eb3197b25.gif",
 		github: "https://github.com/atzin-escandia",
-		link: "https://theplumup.com",
+		link: "https://atzinescandia.dev",
 		techs: ["TypeScript", "React", "NextJS", "CSS", "AWS", "GitHub"],
 	},
 	{
@@ -81,7 +81,7 @@ export const projects = [
 		titleClassName: "justify-start",
 		img: "https://i.pinimg.com/736x/c7/de/01/c7de016c811fa5fae9d7120402f27645.jpg",
 		github: "https://github.com/atzin-escandia",
-		link: "https://theplumup.com",
+		link: "https://atzinescandia.dev",
 		techs: ["JavaScript", "NodeJS", "Express", "React", "Heroku", "GitHub"],
 	},
 	{
@@ -93,7 +93,7 @@ export const projects = [
 		titleClassName: "justify-center md:justify-start lg:justify-center",
 		img: "https://i.pinimg.com/736x/09/2e/25/092e252b5562c7e5eb576215c6d9db8d.jpg",
 		github: "https://github.com/atzin-escandia",
-		link: "https://theplumup.com/about",
+		link: "https://atzinescandia.dev/about",
 		techs: ["JavaScript", "CSS", "React", "Tailwind", "GitHub", "AWS"],
 	},
 	{
@@ -177,7 +177,7 @@ export const socialMedia = [
 	{
 		id: 3,
 		img: "assets/web.svg",
-		link: "https://theplumup.com/",
+		link: "https://atzinescandia.dev/",
 	},
 	{
 		id: 3,

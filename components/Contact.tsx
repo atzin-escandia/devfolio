@@ -24,7 +24,7 @@ const Contact = () => {
           </a> for free!
         </p>
 
-        <a className="mt-10" href="mailto:hello@theplumup.com">
+        <a className="mt-10" href="mailto:info@atzinescandia.dev">
           <Button
             title="Let's connect"
             icon={<img src="assets/send.svg" />}

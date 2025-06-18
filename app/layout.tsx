@@ -46,5 +46,5 @@ export const metadata: Metadata = {
   colorScheme: 'dark',
   viewport: 'width=device-width, initial-scale=1',
   creator: 'Atzin Escandia',
-  publisher: 'The Plum Up',
+  publisher: 'Atzin Escandia',
 };
