@@ -107,6 +107,7 @@ Looking for some inspo? Check out these amazing portfolios made using this templ
 -   [Next.js Docs](https://nextjs.org/docs) - For when you need to level up your Next.js skills.
 -   [Framer Motion](https://www.framer.com/motion/) - Bring your animations to life!
 -   [TailwindCSS Docs](https://tailwindcss.com/docs) - The most efficient way to style your projects without the fuss.
+-   [Analyzer](https://github.com/atzinescandia/atzin-escandia-devfolio/blob/main/scripts/analyzer.rs) - A Rust script you can run to analyze your local folders and generate a list of tech stacks for you. 
 
 ---
 
